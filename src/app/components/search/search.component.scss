@@ -1,0 +1,11 @@
+.searchbox {
+  border: none;
+  border-radius: 4px;
+  background-color: #fafafa;
+  padding: 5px 10px;
+  height: 50%;
+  width: 500px;
+}
+input[type="search"]:focus {
+  outline: none;
+}
