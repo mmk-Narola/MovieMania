@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { environment } from 'src/environments/environment';
+
 import { UserRegistration } from '../models/userRegistration';
 import { UserService } from './user.service';
 import { AbstractControl, ValidationErrors } from '@angular/forms';
